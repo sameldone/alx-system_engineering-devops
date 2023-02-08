@@ -1,2 +1,2 @@
 #!/bin/bash
-ls ./ ../ 103-commas file0.c
+ls -xamp
